@@ -10,4 +10,8 @@ Author: - page://fc5dftf5cohzzd9u
 
 ----
 
+Text: [{"content":{"title":"Resources","items":[]},"id":"dd85eebe-4d1c-49d0-a3e2-44bfb5ebb7f6","isHidden":false,"type":"Resources"},{"content":["Accordion Title","Here is the content"],"id":"49d87c60-7f83-48c4-af1f-15763e452dff","isHidden":false,"type":"accordion"}]
+
+----
+
 Uuid: mlcswqktitkw1rq2
