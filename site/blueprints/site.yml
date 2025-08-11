@@ -1,7 +1,15 @@
 title: Site
 
 sections:
-  pages:
+  person:
     type: pages
-  chapters:
+    label: People
+    parent: kirby.page("people")
+    templates:
+      - person
+  chapter:
     type: pages
+    label: Chapters
+    parent: kirby.page("chapters")
+    templates:
+      - chapter

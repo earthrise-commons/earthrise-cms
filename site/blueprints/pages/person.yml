@@ -1,0 +1,75 @@
+title: Person
+
+tabs:
+  basics:
+    label: Basic Info
+    icon: user
+    fields:
+      name:
+        label: Name
+        type: text
+        required: true
+
+      pronouns:
+        label: Pronouns
+        type: tags
+        options:
+          - she/her
+          - he/him
+          - they/them
+        max: 1
+        accept: text
+        placeholder: Select or enter your own
+
+      photo:
+        label: Photo
+        type: files
+        layout: cards
+        max: 1
+        image:
+          cover: true
+        uploads:
+          template: image
+
+  organization:
+    label: Organization
+    icon: building
+    fields:
+      organizationName:
+        label: Organization Name
+        type: text
+      role:
+        label: Role
+        type: text
+      level:
+        label: Level
+        type: multiselect
+        options:
+          - elementary
+          - high school
+          - undergrad
+          - graduate
+          - other
+
+  contact:
+    label: Contact
+    icon: envelope
+    fields:
+      email:
+        label: Email
+        type: email
+        required: false
+      orcid:
+        label: ORCID
+        type: text
+        required: false
+      urls:
+        label: URLs
+        type: structure
+        fields:
+          title:
+            label: Title
+            type: text
+          url:
+            label: URL
+            type: url

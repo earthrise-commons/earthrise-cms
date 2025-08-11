@@ -1,0 +1,14 @@
+title: Lesson
+sections:
+  meta:
+    type: fields
+    fields:
+      number:
+        type: number
+        label: Number
+      author:
+        type: pages
+        max: 4
+        query: site.find('people').children
+        template: person
+      
