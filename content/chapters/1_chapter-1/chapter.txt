@@ -10,7 +10,7 @@ Author: - page://fc5dftf5cohzzd9u
 
 ----
 
-Text: [{"content":{"title":"Resources","items":[]},"id":"dd85eebe-4d1c-49d0-a3e2-44bfb5ebb7f6","isHidden":false,"type":"Resources"},{"content":["Accordion Title","Here is the content"],"id":"49d87c60-7f83-48c4-af1f-15763e452dff","isHidden":false,"type":"accordion"}]
+Text: [{"content":["Accordion Title","<p>Here's some <strong>content</strong></p>"],"id":"49d87c60-7f83-48c4-af1f-15763e452dff","isHidden":false,"type":"accordion"},{"content":{"title":"Download Some Resources","items":[{"title":"Download Chapter","type":"file","url":"","file":["file://omeahsukehy3c8xw"]},{"title":"External Link Sample","type":"url","url":"https://kristofflalicki@gmail.com","file":[]}]},"id":"e140746b-77e3-46cf-897c-9a52459e08c3","isHidden":false,"type":"resources"}]
 
 ----
 
