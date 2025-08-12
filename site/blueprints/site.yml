@@ -13,3 +13,9 @@ sections:
     parent: kirby.page("chapters")
     templates:
       - chapter
+  lesson:
+    type: pages
+    label: Lessons
+    parent: kirby.page("lessons")
+    templates:
+      - lesson
