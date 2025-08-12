@@ -1,0 +1,13 @@
+name: Two Columns
+icon: columns
+fields:
+  left:
+    name: left
+    type: blocks
+    label: Left Column
+    width: 1/2
+  right:
+    name: right
+    type: blocks
+    label: Right Column
+    width: 1/2

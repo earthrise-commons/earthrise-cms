@@ -22,6 +22,7 @@ sections:
               - text
               - list
               - accordion
+              - twocol
           media:
             label: Media
             type: group

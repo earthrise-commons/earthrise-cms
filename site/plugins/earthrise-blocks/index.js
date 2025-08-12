@@ -12,5 +12,19 @@ panel.plugin("earthrise/blocks", {
     
     </ul>
     </div>`,
+    twocol: `<div class="ec-twocol">
+
+              <div class="ec-twocol-left">
+                <template v-for="(block, index) in (content.left || [])" :key="'left-' + index">
+                          <k-block :type="block.type" :disabled="true" :content="block.content"  />
+                  </template>
+              </div>
+              <div class="ec-twocol-right">
+                <template v-for="(block, index) in (content.right || [])" :key="'right-' + index">
+                          <k-block :type="block.type" :disabled="true" :content="block.content"  />
+                  </template>
+              </div>
+
+    </div>`,
   },
 });
