@@ -31,3 +31,17 @@
 .ec-resources-list-item-type {
   margin-bottom: 0.5rem;
 }
+
+/* two-col layout */
+.ec-twocol {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.ec-twocol-left,
+.ec-twocol-right {
+  flex: 1;
+  padding: 1rem;
+  background-color: var(--panel-color-back);
+  border-radius: 0.5rem;
+}

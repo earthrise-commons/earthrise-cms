@@ -1,6 +1,13 @@
 name: Two Columns
 icon: columns
 fields:
+  theme:
+    type: select
+    label: Theme
+    options:
+      - default
+      - inverted
+    default: default
   left:
     name: left
     type: blocks
