@@ -44,6 +44,8 @@ columns:
               - CC BY-NC
             default: CC BY-NC
           remixSource:
+            label: Remix Source
+            help: Select a chapter or lesson this content is based on.
             type: pages
             max: 1
             query: kirby.collection('remixable')
