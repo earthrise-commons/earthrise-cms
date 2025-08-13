@@ -64,7 +64,6 @@ tabs:
           - undergrad
           - graduate
           - other
-
   contact:
     label: Contact Info
     icon: contact
@@ -87,3 +86,8 @@ tabs:
           url:
             label: URL
             type: url
+  tags:
+    label: Tags
+    icon: tag
+    fields:
+      tags: fields/tags

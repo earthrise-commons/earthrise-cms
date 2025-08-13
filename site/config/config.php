@@ -1,6 +1,7 @@
 <?php
 
 return [
+
   'hooks' => [
     'page.create:after' => function ($page) {
     

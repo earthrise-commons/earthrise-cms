@@ -1,0 +1,5 @@
+label: Tags
+type: structure
+fields:
+  - label: Tag
+    type: text

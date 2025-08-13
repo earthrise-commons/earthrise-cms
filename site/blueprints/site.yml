@@ -11,17 +11,20 @@ sections:
     type: pages
     label: People
     parent: site.find("people")
+    search: true
     templates:
       - person
   chapter:
     type: pages
     label: Chapters
     parent: kirby.page("chapters")
+    search: true
     templates:
       - chapter
   lesson:
     type: pages
     label: Lessons
     parent: kirby.page("lessons")
+    search: true
     templates:
       - lesson

@@ -13,5 +13,4 @@ sections:
     headline: Lessons
     templates:
       - lesson
-    sortBy: title asc
     create: true

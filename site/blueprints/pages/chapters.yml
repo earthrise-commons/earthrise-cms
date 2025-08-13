@@ -12,5 +12,5 @@ sections:
     headline: Chapters
     templates:
       - chapter
-    sortBy: title asc
     create: true
+    search: true

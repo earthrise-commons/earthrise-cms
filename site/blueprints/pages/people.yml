@@ -12,5 +12,5 @@ sections:
     headline: People
     templates:
       - person
-    sortBy: title asc
     create: true
+    search: true
