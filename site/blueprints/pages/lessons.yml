@@ -1,11 +1,10 @@
 title: Lessons
 options:
   delete: false
-  changeSlug: true
-  changeTitle: true
-  changeStatus: true
-  # Optional: prevent creating content in this page directly
-  changeTemplate: true
+  changeSlug: false
+  changeTitle: false
+  changeStatus: false
+  changeTemplate: false
 
 sections:
   people:
