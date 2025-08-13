@@ -31,6 +31,14 @@ tabs:
           cover: true
         uploads:
           template: image
+
+  location:
+    label: Location
+    icon: map-marker
+    fields:
+      location:
+        type: locator
+        label: Location
   bio:
     label: Bio
     icon: info
