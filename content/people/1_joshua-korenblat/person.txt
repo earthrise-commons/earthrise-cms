@@ -14,19 +14,19 @@ Photo: - file://gn1jmgz6yvy0hs4r
 
 ----
 
-Bio: Josh Korenblat
+Bio: <p><strong>Joshua Korenblat, </strong>an Associate Professor of Graphic Design at SUNY New Paltz, specializes in the vivid storytelling of complex information. As a Reviews Editor for <em>Design and Culture</em>, he also researches how designers shape culture. He has co-taught a Sustainability Living Learning Community course and authored book chapters on design and sustainability. He earned an MFA from the Maryland Institute College of Art, an MAT from Brown in education, and an MA from Johns Hopkins in Writing. He has worked at <em>National Geographic Magazine</em> and <em>Science News</em>, and cofounded and served as Art Director at Graphicacy, a data design firm.</p>
 
 ----
 
-Organizationname: 
+Organizationname: SUNY New Paltz
 
 ----
 
-Role: 
+Role: Associate Professor
 
 ----
 
-Level: 
+Level: undergrad
 
 ----
 

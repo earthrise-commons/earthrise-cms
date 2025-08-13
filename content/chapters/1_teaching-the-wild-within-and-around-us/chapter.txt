@@ -6,7 +6,7 @@ Sectionid: 2. Being a Sustainability Educator: Pursuing Questions and Shaping Va
 
 ----
 
-Chapterid: A
+Chapterid: I
 
 ----
 
@@ -14,7 +14,7 @@ Author: - page://fc5dftf5cohzzd9u
 
 ----
 
-Summary: <p>This chapter is about </p>
+Summary: 
 
 ----
 
