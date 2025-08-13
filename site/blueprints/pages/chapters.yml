@@ -1,0 +1,17 @@
+title: Chapters
+options:
+  delete: false
+  changeSlug: true
+  changeTitle: true
+  changeStatus: true
+  # Optional: prevent creating content in this page directly
+  changeTemplate: true
+
+sections:
+  people:
+    type: pages
+    headline: Chapters
+    templates:
+      - chapter
+    sortBy: title asc
+    create: true

@@ -2,7 +2,7 @@ Title: Sample Chapter
 
 ----
 
-Sectionid: 2. Being a Sustainability Educator: Pursuing Questions and Shaping Values
+Sectionid: 6. Engaging Communities: Campus and Region as Living Laboratories
 
 ----
 
@@ -27,3 +27,7 @@ Text: [{"content":["Accordion Title","<p>Here's some <strong>content</strong></p
 ----
 
 Uuid: mlcswqktitkw1rq2
+
+----
+
+Lock: uJHwDULm

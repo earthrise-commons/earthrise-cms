@@ -2,7 +2,7 @@ Title: Joshua Korenblat
 
 ----
 
-Name: Joshua Korenblat
+Displayname: Joshua Korenblat
 
 ----
 
@@ -11,6 +11,10 @@ Pronouns: he/him
 ----
 
 Photo: - file://gn1jmgz6yvy0hs4r
+
+----
+
+Bio: Josh Korenblat
 
 ----
 
@@ -35,6 +39,10 @@ Orcid:
 ----
 
 Urls: 
+
+----
+
+Name: Joshua Korenblat
 
 ----
 

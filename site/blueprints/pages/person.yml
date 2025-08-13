@@ -5,10 +5,11 @@ tabs:
     label: Basic Info
     icon: user
     fields:
-      name:
-        label: Name
+      displayName:
+        label: Display Name
         type: text
         required: true
+        help: The name of the person as you want it to appear on the site. This can include any titles and degrees (those should not go in the actual page name)
 
       pronouns:
         label: Pronouns
@@ -30,7 +31,14 @@ tabs:
           cover: true
         uploads:
           template: image
-
+  bio:
+    label: Bio
+    icon: info
+    fields:
+      bio:
+        label: Bio
+        type: writer
+        help: An optional short biography of the person
   organization:
     label: Organization
     icon: building

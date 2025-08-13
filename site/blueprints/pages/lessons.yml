@@ -1,0 +1,18 @@
+title: Lessons
+options:
+  delete: false
+  changeSlug: true
+  changeTitle: true
+  changeStatus: true
+  # Optional: prevent creating content in this page directly
+  changeTemplate: true
+
+sections:
+  people:
+    type: pages
+    search: true
+    headline: Lessons
+    templates:
+      - lesson
+    sortBy: title asc
+    create: true
