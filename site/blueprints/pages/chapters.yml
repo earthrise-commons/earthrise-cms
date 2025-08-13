@@ -14,3 +14,5 @@ sections:
       - chapter
     create: true
     search: true
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"

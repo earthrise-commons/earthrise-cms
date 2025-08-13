@@ -14,3 +14,5 @@ sections:
     templates:
       - lesson
     create: true
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"
