@@ -1,6 +1,8 @@
 <?php
 
 return [
+// TODO: customize left panel nav options to add individual collections
+// https://getkirby.com/docs/reference/system/options/panel/panel-menu
 
   'hooks' => [
     'page.create:after' => function ($page) {
