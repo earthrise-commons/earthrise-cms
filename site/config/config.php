@@ -4,6 +4,11 @@ return [
 // TODO: customize left panel nav options to add individual collections
 // https://getkirby.com/docs/reference/system/options/panel/panel-menu
 
+// custom panel favicon:
+  'panel' => [
+    'favicon' => 'assets/icon.svg',
+  ],
+
   'hooks' => [
     'page.create:after' => function ($page) {
     
