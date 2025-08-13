@@ -5,6 +5,7 @@ return [
 // https://getkirby.com/docs/reference/system/options/panel/panel-menu
 
 // custom panel favicon:
+// TODO: ask Olivia to create a new favicon
   'panel' => [
     'favicon' => 'assets/icon.svg',
   ],
