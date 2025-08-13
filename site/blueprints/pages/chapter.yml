@@ -35,4 +35,4 @@ tabs:
     label: Tags
     icon: tag
     fields:
-      tags: fields/tags
+      taxonomy: fields/tags

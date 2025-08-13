@@ -1,6 +1,42 @@
-label: Tags
-type: structure
+label: Taxonomy
+type: group
 fields:
-  - label: UN Sustainable Development Goals
-    type: select
-    type: text
+  sdg:
+    label: UN Sustainable Development Goals
+    type: multiselect
+    options:
+      sdg-1-poverty: "SDG 1: No Poverty"
+      sdg-2-hunger: "SDG 2: Zero Hunger"
+      sdg-3-health: "SDG 3: Good Health and Well-being"
+      sdg-4-education: "SDG 4: Quality Education"
+      sdg-5-gender: "SDG 5: Gender Equality"
+      sdg-6-water: "SDG 6: Clean Water and Sanitation"
+      sdg-7-energy: "SDG 7: Affordable and Clean Energy"
+      sdg-8-work: "SDG 8: Decent Work and Economic Growth"
+      sdg-9-industry: "SDG 9: Industry, Innovation, and Infrastructure"
+      sdg-10-inequality: "SDG 10: Reduced Inequalities"
+      sdg-11-cities: "SDG 11: Sustainable Cities and Communities"
+      sdg-12-consumption: "SDG 12: Responsible Consumption and Production"
+      sdg-13-climate: "SDG 13: Climate Action"
+      sdg-14-oceans: "SDG 14: Life Below Water"
+      sdg-15-land: "SDG 15: Life on Land"
+      sdg-16-peace: "SDG 16: Peace, Justice, and Strong Institutions"
+      sdg-17-partnerships: "SDG 17: Partnerships for the Goals"
+  lre:
+    label: "Ikeda Framework: Learn/Reflect/Empower"
+    type: multiselect
+    help: "Learn more about the Ikeda framework: https://www.daisakuikeda.org/main/educator/education-proposal/edu-proposal-2002.html"
+    options:
+      lre-learn: "Learn"
+      lre-reflect: "Reflect"
+      lre-empower: "Empower"
+  idg:
+    label: Inner Development Goals
+    type: multiselect
+    help: "Learn more about the Inner Development Goals: https://drive.google.com/file/d/1nM6eyTc_cr9_kLJAWYrkHTShlhgU9fXD/"
+    options:
+      idg-being: "Being: Relationship to Self"
+      idg-thinking: "Thinking: Cognitive Skills"
+      idg-relating: "Relating: Caring for Others and the World"
+      idg-collaborating: "Collaborating: Social Skills"
+      idg-acting: "Acting: Enabling Change"
