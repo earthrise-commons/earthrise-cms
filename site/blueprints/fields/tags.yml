@@ -1,6 +1,11 @@
 label: Taxonomy
 type: group
 fields:
+  info:
+    label:
+    type: info
+    icon: info
+    text: "Tags are used to categorize and filter content, and to show related content. Choose the most relevant tag(s) for your content; it is not necessary to select a tag from every group."
   sdg:
     label: UN Sustainable Development Goals
     type: multiselect
@@ -40,3 +45,12 @@ fields:
       idg-relating: "Relating: Caring for Others and the World"
       idg-collaborating: "Collaborating: Social Skills"
       idg-acting: "Acting: Enabling Change"
+  lvl:
+    label: Grade Level
+    type: multiselect
+    options:
+      lvl-elementary: "Elementary School"
+      lvl-middle: "Middle School"
+      lvl-highschool: "High School"
+      lvl-undergrad: "Undergraduate"
+      lvl-graduate: "Graduate+"
