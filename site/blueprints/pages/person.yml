@@ -36,9 +36,7 @@ tabs:
     label: Location
     icon: map-marker
     fields:
-      location:
-        type: locator
-        label: Location
+      location: fields/location
   bio:
     label: Bio
     icon: info
