@@ -34,7 +34,7 @@ tabs:
 
   location:
     label: Location
-    icon: map-marker
+    icon: pin
     fields:
       location: fields/location
   bio:
@@ -66,8 +66,8 @@ tabs:
           - other
 
   contact:
-    label: Contact
-    icon: envelope
+    label: Contact Info
+    icon: contact
     fields:
       email:
         label: Email
