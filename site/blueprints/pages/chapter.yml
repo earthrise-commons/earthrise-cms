@@ -11,23 +11,7 @@ sections:
         max: 4
         query: site.find('people').children
         template: person
-      text:
-        type: blocks
-        fieldsets:
-          text:
-            label: Text
-            type: group
-            fieldsets:
-              - heading
-              - text
-              - list
-              - accordion
-              - twocol
-          media:
-            label: Media
-            type: group
-            fieldsets:
-              - image
-              - video
-              - audio
-              - resources
+      summary:
+        type: writer
+        label: Chapter Summary
+        help: A short summary of the chapter. Appears in the 'About this'
