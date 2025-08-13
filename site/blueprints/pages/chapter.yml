@@ -1,7 +1,8 @@
 title: Chapter
-sections:
-  meta:
-    type: fields
+tabs:
+  basics:
+    label: Basic Info
+    icon: user
     fields:
       sectionID:
         type: select
@@ -30,3 +31,8 @@ sections:
         type: writer
         label: Chapter Summary
         help: A short summary of the chapter. Appears in the 'About this'
+  tags:
+    label: Tags
+    icon: tag
+    fields:
+      tags: fields/tags

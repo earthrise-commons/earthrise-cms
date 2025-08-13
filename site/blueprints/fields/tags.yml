@@ -1,5 +1,6 @@
 label: Tags
 type: structure
 fields:
-  - label: Tag
+  - label: UN Sustainable Development Goals
+    type: select
     type: text
