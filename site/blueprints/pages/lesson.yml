@@ -5,26 +5,7 @@ columns:
       content:
         type: fields
         fields:
-          text:
-            type: blocks
-            fieldsets:
-              text:
-                label: Text
-                type: group
-                fieldsets:
-                  - heading
-                  - text
-                  - list
-                  - accordion
-                  - twocol
-              media:
-                label: Media
-                type: group
-                fieldsets:
-                  - image
-                  - video
-                  - audio
-                  - resources
+          text: fields/ec-blocks
 
   - width: 1/3
     sections:
