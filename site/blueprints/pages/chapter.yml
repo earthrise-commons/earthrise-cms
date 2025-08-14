@@ -31,6 +31,11 @@ tabs:
         type: writer
         label: Chapter Summary
         help: A short summary of the chapter. Appears in the 'About this'
+  main:
+    label: Main Content
+    icon: book
+    fields:
+      text: fields/ec-blocks
   tags:
     label: Tags
     icon: tag
