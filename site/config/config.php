@@ -7,7 +7,7 @@ return [
 // custom panel favicon:
 // TODO: ask Olivia to create a new favicon
   'panel' => [
-    'favicon' => 'assets/icon.svg',
+    'favicon' => 'assets/ec-favicon.svg',
   ],
 
   'hooks' => [

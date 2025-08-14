@@ -54,3 +54,6 @@ fields:
       lvl-highschool: "High School"
       lvl-undergrad: "Undergraduate"
       lvl-graduate: "Graduate+"
+  other:
+    label: Other Tags
+    type: tags
