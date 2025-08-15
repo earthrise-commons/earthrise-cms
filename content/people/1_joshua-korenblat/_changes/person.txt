@@ -57,11 +57,11 @@ Urls:
 
 Tags:
 
-sdg: sdg-1-poverty
+sdg: sdg-1-poverty, sdg-2-hunger
 lre: lre-learn
 idg: ""
 lvl: ""
-other: ""
+other: test, test2
 
 ----
 
