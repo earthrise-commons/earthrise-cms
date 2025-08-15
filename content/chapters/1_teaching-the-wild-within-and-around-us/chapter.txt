@@ -18,7 +18,23 @@ Summary:
 
 ----
 
-Links: 
+Links:
+
+- 
+  title: View on Springerlink
+  type: url
+  url: https://google.com
+  file: [ ]
+- 
+  title: View Chapter on SpringerLink
+  type: file
+  url: ""
+  file:
+    - file://omeahsukehy3c8xw
+
+----
+
+Resourcelinks: 
 
 ----
 
