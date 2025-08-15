@@ -29,9 +29,9 @@ Text: [{"content":["Accordion Title","<p>Here's some <strong>content</strong></p
 Taxonomy:
 
 sdg: sdg-13-climate, sdg-15-land
-lre: ""
-idg: ""
-lvl: ""
+lre: lre-reflect
+idg: idg-relating
+lvl: lvl-undergrad
 other: ""
 
 ----
