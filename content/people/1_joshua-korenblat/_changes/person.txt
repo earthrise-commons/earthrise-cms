@@ -60,7 +60,9 @@ Tags:
 - 
   sdg: sdg-1-poverty
   lre: ""
-  idg: idg-thinking
+  idg: >
+    idg-thinking, idg-collaborating,
+    idg-relating
   lvl: ""
   other: josh
 

@@ -9,7 +9,7 @@ return [
   'panel' => [
     'favicon' => 'assets/ec-favicon.svg',
   ],
-
+  
   'hooks' => [
     'page.create:after' => function ($page) {
     
