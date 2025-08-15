@@ -57,19 +57,11 @@ Urls:
 
 Tags:
 
-sdg: ""
-lre: ""
+sdg: sdg-1-poverty
+lre: lre-learn
 idg: ""
 lvl: ""
 other: ""
-0:
-  sdg: sdg-1-poverty
-  lre: ""
-  idg: >
-    idg-thinking, idg-collaborating,
-    idg-relating
-  lvl: ""
-  other: josh
 
 ----
 
