@@ -32,7 +32,7 @@ sdg: sdg-1-poverty
 lre: ""
 idg: ""
 lvl: ""
-other: test, JOSH
+other: ""
 
 ----
 
