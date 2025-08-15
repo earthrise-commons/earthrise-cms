@@ -9,15 +9,7 @@ return [
   'panel' => [
     'favicon' => 'assets/ec-favicon.svg',
   ],
-  'routes' => [
-    [
-      'pattern' => 'tags',
-      'action'  => function () {
-        return kirby()->site()->getAllTags();
-      }
-    ],
-  ],
-  'debug' => true, // set to false in production
+  
   'hooks' => [
     'page.create:after' => function ($page) {
     
