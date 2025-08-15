@@ -1,6 +1,6 @@
 label: Taxonomy
-type: structure
-max: 1
+type: object
+
 fields:
   info:
     label:
@@ -60,5 +60,5 @@ fields:
     type: tags
     options: query
     query: site.getAllTags
-    text: "{{item}}"
-    value: "{{item}}"
+    # text: "{{item}}"
+    # value: "{{item}}"

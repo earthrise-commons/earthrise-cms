@@ -33,7 +33,19 @@ tabs:
         help: A short summary of the chapter. Appears in the 'About this'
       links:
         extends: fields/links-list
-        label: Links to Chapter
+        min: 1
+        fields:
+          title:
+            default: View Chapter on SpringerLink
+        label: Chapter Links
+      linkInfo:
+        type: info
+        label:
+        icon: info
+        text: "The Additional Resources field below is optional - it can be used to list any related resources other than the chapter itself, such as related articles, websites, or files. You can also add links within the main page content with the Resources block."
+      resourceLinks:
+        extends: fields/links-list
+        label: Additional Resources
 
   main:
     label: Main Content
