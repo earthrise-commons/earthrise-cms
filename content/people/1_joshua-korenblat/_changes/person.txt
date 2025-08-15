@@ -61,7 +61,7 @@ sdg: sdg-1-poverty, sdg-2-hunger
 lre: lre-learn
 idg: ""
 lvl: ""
-other: JOSH, josh2
+other: sally test, Notion, Design, Map
 
 ----
 
