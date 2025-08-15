@@ -33,7 +33,7 @@ Taxonomy:
   lre: ""
   idg: ""
   lvl: ""
-  other: ""
+  other: josh
 
 ----
 
