@@ -1,0 +1,55 @@
+title: Read-Only API
+permissions:
+  access:
+    *: false
+    panel: true
+  files:
+    access: true
+    changeName: false
+    changeTemplate: false
+    create: false
+    delete: false
+    list: true
+    read: true
+    replace: false
+    sort: true
+    update: false
+  languages:
+    create: false
+    delete: false
+    update: false
+  pages:
+    access: true
+    changeSlug: false
+    changeStatus: false
+    changeTemplate: false
+    changeTitle: false
+    create: false
+    delete: false
+    duplicate: false
+    list: true
+    move: false
+    preview: true
+    read: true
+    sort: true
+    update: false
+  site:
+    changeTitle: false
+    update: false
+  users:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    create: false
+    delete: false
+    update: false
+  user:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: false
+    changeRole: false
+    delete: false
+    update: false
