@@ -4,7 +4,8 @@ return [
 // TODO: customize left panel nav options to add individual collections
 // https://getkirby.com/docs/reference/system/options/panel/panel-menu
 
-'api'=>['basicAuth' => true],
+'api'=>['basicAuth' => true,
+],
 
 // custom panel favicon
 // TODO: ask Olivia to create a new favicon
