@@ -1,0 +1,25 @@
+Title: Sample Lesson
+
+----
+
+Text: [{"content":{"level":"h3","text":"<strong>Lesson Outline</strong>"},"id":"71080d62-c0b0-4be8-adbc-2ef5ae7067db","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>1. Hook (10 minutes)</strong></p>"},"id":"4d1f6e2a-1bcd-45b1-a0fb-4ae5da26247f","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Teacher shows a short video of cafeteria waste being sorted at a large school.</p></li><li><p>Quick class poll: &ldquo;Where do you think most of this waste ends up?&rdquo;</p></li></ul>"},"id":"de24fd63-4e56-4032-a6f1-19c2e581898d","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>2. Mini-Lecture &amp; Discussion (15 minutes)</strong></p>"},"id":"5ebfce4b-5e25-4bd4-84ff-7f917156f39d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Introduce the <em>Zero-Waste Hierarchy</em>.</p></li><li><p>Compare landfill, recycling, and composting processes.</p></li><li><p>Discuss why recycling alone isn&rsquo;t enough (contamination rates, energy costs).</p></li></ul>"},"id":"ae60abcb-edc5-4d22-b28a-90b2c1b2f397","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>3. Waste Audit Analysis (15 minutes)</strong></p>"},"id":"78f9c500-96a8-451e-ae20-bdc5c6735314","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Provide students with a real or fictional data set of one week&rsquo;s cafeteria waste (e.g., pounds of food waste, single-use packaging, recyclables).</p></li><li><p>In groups, students identify the top 3 categories of waste.</p></li></ul>"},"id":"e10cf4cd-f4df-42e4-9d10-87e0bdf5b64d","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>4. Design Challenge (30 minutes)</strong></p>"},"id":"de67df2a-2753-41ad-ad41-1b9a838aba37","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Groups create a <em>Zero-Waste Lunch Program</em> plan addressing:</p>\n<ul><li><p>Packaging changes (e.g., reusable trays, bulk dispensers)</p></li><li><p>Food waste reduction (e.g., share tables, portion options)</p></li><li><p>Composting systems</p></li><li><p>Educational campaigns for students and staff</p></li></ul></li><li><p>Must include:</p>\n<ul><li><p>A visual diagram of the proposed system</p></li><li><p>Cost/benefit considerations</p></li><li><p>Potential challenges and solutions</p></li></ul></li></ul>"},"id":"9c53cd7d-b4d5-4f70-84bf-a8cd5da0242b","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>5. Presentations (15 minutes)</strong></p>"},"id":"c66d4731-5b9d-4741-837b-8892e504352b","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p>Groups present their plans to the class in a 2-minute &ldquo;pitch.&rdquo;</p></li><li><p>Peers vote on the most creative <em>and</em> most realistic plan.</p></li></ul>"},"id":"666a4558-c320-40e9-89ad-9a32c62e1698","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>6. Reflection &amp; Homework</strong></p>"},"id":"cd627c7e-8333-4843-9a33-73bf272e34a3","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p><strong>Reflection prompt:</strong> &ldquo;What changes could you make in your daily lunch routine to align with the zero-waste hierarchy?&rdquo;</p></li><li><p><strong>Homework:</strong> Write a 300-word proposal to the principal advocating for one change you&rsquo;d like to see implemented.</p></li></ul>"},"id":"de67b6c1-3600-466b-afc9-0c40c379248f","isHidden":false,"type":"list"}]
+
+----
+
+Author: - page://fc5dftf5cohzzd9u
+
+----
+
+License: CC BY-NC
+
+----
+
+Remixsource: 
+
+----
+
+Number: 
+
+----
+
+Uuid: fostv4cyltji6edp

@@ -1,0 +1,59 @@
+title: Chapter
+tabs:
+  basics:
+    label: Basic Info
+    icon: user
+    fields:
+      sectionID:
+        type: select
+        label: Section
+        width: 1/2
+        options:
+          1: "1. Introduction"
+          2: "2. Being a Sustainability Educator: Pursuing Questions and Shaping Values"
+          3: "3. Creating Transformational Learning Experiences"
+          4: "4. Enacting Principles of Human and Environmental Flourishing in Teaching"
+          5: "5. Building a Sustainability Action Culture in Institutions"
+          6: "6. Engaging Communities: Campus and Region as Living Laboratories"
+          7: "7. Reimagining and Remixing Materials for Circular Cycles: Sourcing - Design - Disposal"
+      chapterID:
+        type: text
+        label: Chapter ID
+        help: The letter ID that identifies this chapter in the book within its section, e.g. "A", "B", etc.
+        max: 1
+        width: 1/2
+      author:
+        type: pages
+        max: 4
+        query: site.find('people').children
+        template: person
+      summary:
+        type: writer
+        label: Chapter Summary
+        help: A short summary of the chapter. Appears in the 'About this'
+      links:
+        extends: fields/links-list
+        min: 1
+        fields:
+          title:
+            default: View Chapter on SpringerLink
+        label: Chapter Links
+      linkInfo:
+        type: info
+        label:
+        icon: info
+        text: "The Additional Resources field below is optional - it can be used to list any related resources other than the chapter itself, such as related articles, websites, or files. You can also add links within the main page content with the Resources block."
+      resourceLinks:
+        extends: fields/links-list
+        label: Additional Resources
+
+  main:
+    label: Main Content
+    icon: book
+    fields:
+      text: fields/ec-blocks
+  tags:
+    label: Tags
+    icon: tag
+    fields:
+      taxonomy: fields/tags

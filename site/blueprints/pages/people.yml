@@ -1,0 +1,16 @@
+title: People
+options:
+  delete: false
+  changeSlug: false
+  changeTitle: false
+  changeStatus: false
+  changeTemplate: false
+
+sections:
+  people:
+    type: pages
+    headline: People
+    templates:
+      - person
+    create: true
+    search: true

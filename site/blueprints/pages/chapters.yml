@@ -1,0 +1,18 @@
+title: Chapters
+options:
+  delete: false
+  changeSlug: false
+  changeTitle: false
+  changeStatus: false
+  changeTemplate: false
+
+sections:
+  people:
+    type: pages
+    headline: Chapters
+    templates:
+      - chapter
+    create: true
+    search: true
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"

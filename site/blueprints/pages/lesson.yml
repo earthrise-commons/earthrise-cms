@@ -1,0 +1,32 @@
+title: Lesson
+columns:
+  - width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          text: fields/ec-blocks
+
+  - width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          author:
+            type: pages
+            max: 4
+            query: site.find('people').children
+            template: person
+          license:
+            type: select
+            label: License
+            options:
+              - CC BY
+              - CC BY-NC
+            default: CC BY-NC
+          remixSource:
+            label: Remix Source
+            help: Select a chapter or lesson this content is based on.
+            type: pages
+            max: 1
+            query: kirby.collection('remixable')

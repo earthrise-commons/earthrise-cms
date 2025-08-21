@@ -1,0 +1,66 @@
+Title: Henry Gage, Jr.
+
+----
+
+Displayname: Henry Gage, Jr.
+
+----
+
+Pronouns: he/him
+
+----
+
+Photo: 
+
+----
+
+Location: 
+
+----
+
+Bio: <p>Henry Gage, Jr. is a strategic leader and community advocate with a strong background in sustainable development, organizational growth, and collaborative problem-solving. As a key partner in <strong>Build Green Now</strong>&nbsp;and <strong>Voices for Progress</strong>, Henry combines his expertise in business operations, public engagement, and environmental policy to advance projects that deliver tangible benefits to both communities and the planet.</p><p>With years of experience guiding organizations through complex challenges, Henry brings a results-driven approach to every initiative. At <strong>Build Green Now</strong>, he supports large-scale demonstrations of climate-friendly building practices, including the integration of industrial hemp and lime as a safe, efficient, and cost-effective insulation solution. His work involves coordinating with legislators, private sector innovators, and grassroots leaders to accelerate adoption of sustainable construction methods and create replicable models for energy-efficient housing.</p><p>At <strong>Voices for Progress</strong>, Henry plays a pivotal role in expanding the reach and impact of the AI-powered project management platform. He focuses on building partnerships with civic organizations, nonprofits, and educational institutions, ensuring the platform serves as a bridge between local needs and expert-driven solutions. His efforts center on empowering volunteers, fostering workforce skill development, and creating opportunities for civic participation in projects with measurable public benefit.</p><p>Henry’s leadership reflects a deep commitment to equity, environmental stewardship, and innovation. His work with both organizations is driven by the belief that progress is best achieved when communities have the tools, knowledge, and partnerships to lead their own sustainable future.</p>
+
+----
+
+Organizationname: 
+
+----
+
+Role: 
+
+----
+
+Level: 
+
+----
+
+Email: 
+
+----
+
+Orcid: 
+
+----
+
+Urls:
+
+- 
+  title: Build Green Now
+  url: https://www.buildgreennow.net
+- 
+  title: Voices for Progress
+  url: https://voicesforprogress.com
+
+----
+
+Tags:
+
+sdg: ""
+lre: ""
+idg: ""
+lvl: ""
+other: henry test
+
+----
+
+Uuid: dcn2dz00wwqwqrxt

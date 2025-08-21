@@ -1,0 +1,93 @@
+title: Person
+
+tabs:
+  basics:
+    label: Basic Info
+    icon: user
+    fields:
+      displayName:
+        label: Display Name
+        type: text
+        required: true
+        help: The name of the person as you want it to appear on the site. This can include any titles and degrees (those should not go in the actual page name)
+
+      pronouns:
+        label: Pronouns
+        type: tags
+        options:
+          - she/her
+          - he/him
+          - they/them
+        max: 1
+        accept: text
+        placeholder: Select or enter your own
+
+      photo:
+        label: Photo
+        type: files
+        layout: cards
+        max: 1
+        image:
+          cover: true
+        uploads:
+          template: image
+
+  location:
+    label: Location
+    icon: pin
+    fields:
+      location: fields/location
+  bio:
+    label: Bio
+    icon: info
+    fields:
+      bio:
+        label: Bio
+        type: writer
+        help: An optional short biography of the person
+  organization:
+    label: Organization
+    icon: building
+    fields:
+      organizationName:
+        label: Organization Name
+        type: text
+      role:
+        label: Role
+        type: text
+      level:
+        label: Level
+        type: multiselect
+        options:
+          - elementary
+          - high school
+          - undergrad
+          - graduate
+          - other
+  contact:
+    label: Contact Info
+    icon: contact
+    fields:
+      email:
+        label: Email
+        type: email
+        required: false
+      orcid:
+        label: ORCID
+        type: text
+        required: false
+      urls:
+        label: URLs
+        type: structure
+        fields:
+          title:
+            label: Title
+            type: text
+          url:
+            label: URL
+            type: url
+  tags:
+    label: Tags
+    icon: tag
+    fields:
+      tags: fields/tags

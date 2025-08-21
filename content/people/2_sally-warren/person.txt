@@ -1,0 +1,66 @@
+Title: Sally Warren
+
+----
+
+Displayname: Dr. Sally Warren
+
+----
+
+Pronouns: she/her
+
+----
+
+Photo: 
+
+----
+
+Location: 
+
+----
+
+Bio: <p>Dr. Sally Warren is Vice President of <strong>Build Green Now</strong>&nbsp;and <strong>Voices for Progress</strong>, two initiatives dedicated to advancing sustainable development, community collaboration, and climate-friendly innovation. Her work bridges environmental science, green construction, and policy advocacy, with a strong focus on practical solutions that benefit both people and the planet.</p><p>At <strong>Build Green Now</strong>, Dr. Warren leads research and pilot projects using industrial hemp and lime for external insulation to improve energy efficiency, lower heating and cooling costs, and increase fire resistance in buildings. Along with Henry Gage, Jr., and her team, she collaborates with legislators, community organizations, and industry partners to bring eco-conscious construction into the mainstream and create scalable models for green housing.</p><p>Through <strong>Voices for Progress</strong>, Dr. Warren helps develop and oversee an AI-powered project management platform that enables communities, nonprofits, and businesses to plan, organize, and scale impactful initiatives. This includes creating tools for volunteer engagement, skill-building, and connecting experts with projects that benefit from their guidance.</p><p>Her leadership combines scientific insight with practical implementation, ensuring that sustainable solutions move from concept to real-world application. Dr. Warren’s efforts emphasize public benefit, workforce development, and environmental stewardship, inspiring collaborative action to build a cleaner, more resilient future.</p>
+
+----
+
+Organizationname: 
+
+----
+
+Role: 
+
+----
+
+Level: 
+
+----
+
+Email: 
+
+----
+
+Orcid: 
+
+----
+
+Urls:
+
+- 
+  title: Build Green Now
+  url: https://www.BuildGreenNow.net
+- 
+  title: Voices for Progress
+  url: https://www.voicesforprogress.net/
+
+----
+
+Tags:
+
+sdg: ""
+lre: ""
+idg: ""
+lvl: ""
+other: sally test
+
+----
+
+Uuid: h1oeselsn5phbarv

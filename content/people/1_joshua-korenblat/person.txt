@@ -1,0 +1,72 @@
+Title: Joshua Korenblat
+
+----
+
+Displayname: Joshua Korenblat
+
+----
+
+Pronouns: he/him
+
+----
+
+Photo: - file://gn1jmgz6yvy0hs4r
+
+----
+
+Location:
+
+lat: 41.7464972
+lon: -74.0844894
+city: Town of New Paltz
+region: New York
+country: United States
+countryCode: us
+postcode: "12561"
+osm: 3177666
+
+----
+
+Bio: <p><strong>Joshua Korenblat, </strong>an Associate Professor of Graphic Design at SUNY New Paltz, specializes in the vivid storytelling of complex information. As a Reviews Editor for <em>Design and Culture</em>, he also researches how designers shape culture. He has co-taught a Sustainability Living Learning Community course and authored book chapters on design and sustainability. He earned an MFA from the Maryland Institute College of Art, an MAT from Brown in education, and an MA from Johns Hopkins in Writing. He has worked at <em>National Geographic Magazine</em> and <em>Science News</em>, and cofounded and served as Art Director at Graphicacy, a data design firm.</p>
+
+----
+
+Organizationname: SUNY New Paltz
+
+----
+
+Role: Associate Professor
+
+----
+
+Level: undergrad
+
+----
+
+Email: jkorenblat@newpaltz.edu
+
+----
+
+Orcid: 
+
+----
+
+Urls: 
+
+----
+
+Tags:
+
+sdg: sdg-1-poverty, sdg-2-hunger
+lre: lre-learn
+idg: ""
+lvl: ""
+other: Information Design, Another Free Tag
+
+----
+
+Name: Joshua Korenblat
+
+----
+
+Uuid: fc5dftf5cohzzd9u

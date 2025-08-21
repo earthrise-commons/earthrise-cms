@@ -1,0 +1,30 @@
+type: structure
+fields:
+  title:
+    type: text
+    label: Title
+    required: true
+  type:
+    type: select
+    label: Type
+    required: true
+    options:
+      - file
+      - url
+  url:
+    type: url
+    label: URL
+    required: true
+    when:
+      type: url
+  file:
+    type: files
+    label: File
+    required: true
+    when:
+      type: file
+    max: 1
+    image:
+      cover: true
+    uploads:
+      template: file

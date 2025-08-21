@@ -1,0 +1,91 @@
+Title: Teaching the Wild Within and Around Us
+
+----
+
+Sectionid: 2. Being a Sustainability Educator: Pursuing Questions and Shaping Values
+
+----
+
+Chapterid: I
+
+----
+
+Author: - page://fc5dftf5cohzzd9u
+
+----
+
+Summary: 
+
+----
+
+Links:
+
+- 
+  title: View on Springerlink
+  type: url
+  url: https://google.com
+  file: [ ]
+- 
+  title: View Chapter on SpringerLink
+  type: file
+  url: ""
+  file:
+    - file://omeahsukehy3c8xw
+
+----
+
+Resourcelinks: 
+
+----
+
+Text: [{"content":["Accordion Title","<p>Here's some <strong>content</strong></p>"],"id":"49d87c60-7f83-48c4-af1f-15763e452dff","isHidden":false,"type":"accordion"},{"content":{"title":"Download Some Resources","items":[{"title":"Download Chapter","type":"file","url":"","file":["file://omeahsukehy3c8xw"]},{"title":"External Link Sample","type":"url","url":"https://kristofflalicki@gmail.com","file":[]},{"title":"Let's add a new item!","type":"url","url":"https://kristofflalicki.dev","file":[]}]},"id":"e140746b-77e3-46cf-897c-9a52459e08c3","isHidden":false,"type":"resources"},{"content":{"theme":"","left":"[{\"content\":{\"level\":\"h2\",\"text\":\"Left Content\"},\"id\":\"10a4dfa0-dc11-4e61-89b9-acad4eb62749\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>BEANS</p>\"},\"id\":\"08c9840c-e575-48c6-980f-05f8a0ad91da\",\"isHidden\":false,\"type\":\"text\"}]","right":"[{\"content\":{\"text\":\"<p>right content goes here!</p>\"},\"id\":\"b993692c-5565-49e1-9f16-d47ff59483a7\",\"isHidden\":false,\"type\":\"text\"},{\"content\":{\"location\":\"kirby\",\"image\":[\"file://omeahsukehy3c8xw\"],\"src\":\"\",\"alt\":\"Book Cover\",\"caption\":\"\",\"link\":\"\",\"ratio\":\"\",\"crop\":\"false\"},\"id\":\"1476d22d-eebf-40ab-b445-17626004fff0\",\"isHidden\":false,\"type\":\"image\"}]"},"id":"1128a2e0-9e29-46f8-b409-2383e1b65c3d","isHidden":false,"type":"twocol"}]
+
+----
+
+Taxonomy:
+
+sdg: sdg-13-climate, sdg-15-land
+lre: lre-reflect
+idg: idg-relating
+lvl: lvl-undergrad
+other: ""
+
+----
+
+Sdg: sdg-13-climate, sdg-15-land
+
+----
+
+Lre: lre-reflect
+
+----
+
+Idg: idg-relating
+
+----
+
+Lvl: lvl-undergrad
+
+----
+
+Other: sample-tag
+
+----
+
+Tagtitle: 
+
+----
+
+Gradelevel: 
+
+----
+
+Audience: 
+
+----
+
+Number: 1
+
+----
+
+Uuid: mlcswqktitkw1rq2

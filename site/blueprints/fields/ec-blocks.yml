@@ -1,0 +1,20 @@
+label: Main Content
+type: blocks
+fieldsets:
+  text:
+    label: Text
+    type: group
+    fieldsets:
+      - heading
+      - text
+      - list
+      - accordion
+      - twocol
+  media:
+    label: Media
+    type: group
+    fieldsets:
+      - image
+      - video
+      - audio
+      - resources

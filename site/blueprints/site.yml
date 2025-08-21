@@ -1,0 +1,35 @@
+title: Site
+options:
+  delete: false
+  changeSlug: false
+  changeTitle: false
+  changeStatus: false
+  changeTemplate: false
+
+sections:
+  person:
+    type: pages
+    label: "People ({{kirby.page('people').children.count}})"
+    parent: kirby.page("people")
+    search: true
+    layout: cardlets
+    templates:
+      - person
+  chapter:
+    type: pages
+    label: "Chapters ({{kirby.page('chapters').children.count}})"
+    parent: kirby.page("chapters")
+    search: true
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"
+    templates:
+      - chapter
+  lesson:
+    type: pages
+    label: "Lessons ({{kirby.page('lessons').children.count}})"
+    parent: kirby.page("lessons")
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"
+    search: true
+    templates:
+      - lesson
