@@ -9,13 +9,13 @@ tabs:
         label: Section
         width: 1/2
         options:
-          1: "1. Introduction"
-          2: "2. Being a Sustainability Educator: Pursuing Questions and Shaping Values"
-          3: "3. Creating Transformational Learning Experiences"
-          4: "4. Enacting Principles of Human and Environmental Flourishing in Teaching"
-          5: "5. Building a Sustainability Action Culture in Institutions"
-          6: "6. Engaging Communities: Campus and Region as Living Laboratories"
-          7: "7. Reimagining and Remixing Materials for Circular Cycles: Sourcing - Design - Disposal"
+          ch1: "1. Introduction"
+          ch2: "2. Being a Sustainability Educator: Pursuing Questions and Shaping Values"
+          ch3: "3. Creating Transformational Learning Experiences"
+          ch4: "4. Enacting Principles of Human and Environmental Flourishing in Teaching"
+          ch5: "5. Building a Sustainability Action Culture in Institutions"
+          ch6: "6. Engaging Communities: Campus and Region as Living Laboratories"
+          ch7: "7. Reimagining and Remixing Materials for Circular Cycles: Sourcing - Design - Disposal"
       chapterID:
         type: text
         label: Chapter ID
