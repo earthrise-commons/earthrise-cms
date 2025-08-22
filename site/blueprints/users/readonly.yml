@@ -2,7 +2,6 @@ title: Read-Only API
 description: limited-access user type for API clients (not actual people)
 permissions:
   access:
-    *: false
     panel: true
   files:
     access: true
