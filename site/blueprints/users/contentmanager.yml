@@ -1,0 +1,8 @@
+title: Content Manager
+description: User type for content managers. Has access to all content features.
+permissions:
+  site:
+    update: false
+  users: false
+  user:
+    changeRole: false
