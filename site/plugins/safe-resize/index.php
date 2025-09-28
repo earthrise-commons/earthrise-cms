@@ -4,6 +4,9 @@ use Kirby\Cms\App;
 // plugin to safely resize images and return null if the image is missing (for optional image fields)
 App::plugin('earthrise/safe-resize', [
   'fileMethods' => [
+    /**
+     * @kql-allowed
+     */
     'safeResize' => function (int $width = 1200, int $height = null, array $options = []) {
       if (!$this) {
         return null; // field empty -> return null
