@@ -1,0 +1,18 @@
+title: Articles
+options:
+  delete: false
+  changeSlug: false
+  changeTitle: false
+  changeStatus: false
+  changeTemplate: false
+
+sections:
+  people:
+    type: pages
+    search: true
+    headline: Articles
+    templates:
+      - article
+    create: true
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"

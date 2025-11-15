@@ -33,3 +33,12 @@ sections:
     search: true
     templates:
       - lesson
+  article:
+    type: pages
+    label: "Articles ({{kirby.page('articles').children.count}})"
+    parent: kirby.page("articles")
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"
+    search: true
+    templates:
+      - article

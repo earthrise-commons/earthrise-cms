@@ -1,0 +1,50 @@
+title: Article
+tabs:
+  main:
+    label: Main Content
+    icon: book
+    columns:
+      - width: 2/3
+        sections:
+          content:
+            type: fields
+            fields:
+              text: fields/ec-blocks
+
+      - width: 1/3
+        sections:
+          meta:
+            type: fields
+            fields:
+              author:
+                type: pages
+                max: 4
+                query: site.find('people').children
+                template: person
+              hero:
+                label: Hero Image
+                type: files
+                layout: cards
+                max: 1
+                image:
+                  cover: true
+                uploads:
+                  template: image
+              license:
+                type: select
+                label: License
+                options:
+                  - CC BY
+                  - CC BY-NC
+                default: CC BY-NC
+              remixSource:
+                label: Remix Source
+                help: Select a chapter or lesson this content is based on.
+                type: pages
+                max: 1
+                query: kirby.collection('remixable')
+  tags:
+    label: Tags
+    icon: tag
+    fields:
+      taxonomy: fields/tags
