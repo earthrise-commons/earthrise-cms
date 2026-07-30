@@ -7,7 +7,7 @@ options:
   changeTemplate: false
 
 sections:
-  people:
+  articles:
     type: pages
     search: true
     headline: Articles

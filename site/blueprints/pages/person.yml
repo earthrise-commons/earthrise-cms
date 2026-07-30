@@ -10,7 +10,14 @@ tabs:
         type: text
         required: true
         help: The name of the person as you want it to appear on the site. This can include any titles and degrees (those should not go in the actual page name)
-
+      isBookAuthor:
+        label: Book Author?
+        help: Show this person in the Table of Contents author section
+        type: toggle
+        text:
+          - "no"
+          - "yes"
+        default: "no"
       pronouns:
         label: Pronouns
         type: tags
