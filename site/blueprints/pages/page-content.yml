@@ -22,4 +22,4 @@ tabs:
                     label: Optional headline that corresponds to this paragraph
                   content:
                     label: Paragraph Content
-                    type: textarea
+                    type: writer
