@@ -1,0 +1,18 @@
+title: Page Contents
+options:
+  delete: false
+  changeSlug: false
+  changeTitle: false
+  changeStatus: false
+  changeTemplate: false
+
+sections:
+  page-contents:
+    type: pages
+    search: true
+    headline: Page Contents
+    templates:
+      - page-content
+    create: true
+    layout: cardlets
+    info: "{{page.author.toPage.displayName}}"

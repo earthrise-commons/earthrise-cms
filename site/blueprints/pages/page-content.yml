@@ -1,0 +1,25 @@
+title: Page Content
+tabs:
+  main:
+    label: Main Content
+    icon: book
+    columns:
+      - width: 3/3
+        sections:
+          content:
+            type: fields
+            fields:
+              articles:
+                type: structure
+                label: Content Articles
+                help: Use this section to create and edit paragraphs. The developer can then place these paragraphs into layouts 
+                fields:
+                  id:
+                    type: text
+                    label: Unique ID for this paragraph (not displayed in frontend)
+                  headline:
+                    type: text
+                    label: Optional headline that corresponds to this paragraph
+                  content:
+                    label: Paragraph Content
+                    type: textarea
