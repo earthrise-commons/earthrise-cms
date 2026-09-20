@@ -42,3 +42,12 @@ sections:
     search: true
     templates:
       - article
+  page-content:
+    type: pages
+    label: "Page Content for Custom Layouts ({{kirby.page('page-contents').children.count}})"
+    parent: kirby.page("page-contents")
+    layout: cardlets
+    # info: "{{page.author.toPage.displayName}}"
+    # search: true
+    templates:
+      - page-content
