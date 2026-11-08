@@ -10,6 +10,7 @@ fieldsets:
       - list
       - accordion
       - twocol
+      - markdown
   media:
     label: Media
     type: group
