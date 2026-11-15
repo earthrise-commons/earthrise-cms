@@ -37,6 +37,13 @@ tabs:
                   - CC BY
                   - CC BY-NC
                 default: CC BY-NC
+              showRemixBanner:
+                type: toggle
+                label: Show "Remix This" banner at top of page
+                text:
+                  - "no"
+                  - "yes"
+                default: no
               remixSource:
                 label: Remix Source
                 help: Select a chapter or lesson this content is based on.
